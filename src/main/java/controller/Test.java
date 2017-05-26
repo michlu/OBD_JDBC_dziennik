@@ -6,5 +6,5 @@ package controller;
  */
 public class Test {
     String asd = "zmiana 1";
-
+    String dsa = "zmiana 2";
 }
