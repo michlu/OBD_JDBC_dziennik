@@ -5,4 +5,5 @@ package controller;
  * @sience 26.05.2017
  */
 public class Test {
+    String asd = "asd";
 }
